@@ -8,6 +8,7 @@ In order to get started, you first want to start with the baby steps, right? Get
 
 # Multiplayer
 Multiplayer works similar to LAN Minecraft. Click on Host in your pause menu if you are hosting.
+
 <img width="292" height="87" alt="image" src="https://github.com/user-attachments/assets/cbcb1045-64e7-4365-a181-ec8da14ae604" />
 
 
