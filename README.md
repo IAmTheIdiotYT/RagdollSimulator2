@@ -11,6 +11,7 @@ Multiplayer works similar to LAN Minecraft. Click on Host in your pause menu if 
 
 <img width="292" height="87" alt="image" src="https://github.com/user-attachments/assets/cbcb1045-64e7-4365-a181-ec8da14ae604" />
 
+If you would like to join a server, ask the server hoster the IP address of the server. More information on the ***Wiki***.
 
 # Modding
 In order to start modding or making your own version, you will need if you are using this to create your own version of the game, you will need the following:
